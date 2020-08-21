@@ -12,14 +12,9 @@ export class App extends Component {
   }
 
   handelSubmit = async (term) => {
-    const KEY = "AIzaSyBXAyimeyDQaq0xckMpjEG4NzYGJR_XTbg";
     const response = await youtube.get("/search", {
       params: {
-        key: KEY,
         q: term,
-        part: "snippet",
-        type: "video",
-        maxResults: 5,
       },
     });
 
