@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/YouTube-Browser/static/css/main.8ad48a67.chunk.css",
-    "main.js": "/YouTube-Browser/static/js/main.f04bdaa4.chunk.js",
-    "main.js.map": "/YouTube-Browser/static/js/main.f04bdaa4.chunk.js.map",
+    "main.js": "/YouTube-Browser/static/js/main.21cda30c.chunk.js",
+    "main.js.map": "/YouTube-Browser/static/js/main.21cda30c.chunk.js.map",
     "runtime-main.js": "/YouTube-Browser/static/js/runtime-main.b64987e2.js",
     "runtime-main.js.map": "/YouTube-Browser/static/js/runtime-main.b64987e2.js.map",
-    "static/js/2.51bb68e3.chunk.js": "/YouTube-Browser/static/js/2.51bb68e3.chunk.js",
-    "static/js/2.51bb68e3.chunk.js.map": "/YouTube-Browser/static/js/2.51bb68e3.chunk.js.map",
+    "static/js/2.aaa60096.chunk.js": "/YouTube-Browser/static/js/2.aaa60096.chunk.js",
+    "static/js/2.aaa60096.chunk.js.map": "/YouTube-Browser/static/js/2.aaa60096.chunk.js.map",
     "index.html": "/YouTube-Browser/index.html",
-    "precache-manifest.626f5dfcb86ce3d40758a1da75211f06.js": "/YouTube-Browser/precache-manifest.626f5dfcb86ce3d40758a1da75211f06.js",
+    "precache-manifest.7134dee028c6f6fe170a7dcecfc9f7d2.js": "/YouTube-Browser/precache-manifest.7134dee028c6f6fe170a7dcecfc9f7d2.js",
     "service-worker.js": "/YouTube-Browser/service-worker.js",
     "static/css/main.8ad48a67.chunk.css.map": "/YouTube-Browser/static/css/main.8ad48a67.chunk.css.map",
-    "static/js/2.51bb68e3.chunk.js.LICENSE.txt": "/YouTube-Browser/static/js/2.51bb68e3.chunk.js.LICENSE.txt"
+    "static/js/2.aaa60096.chunk.js.LICENSE.txt": "/YouTube-Browser/static/js/2.aaa60096.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b64987e2.js",
-    "static/js/2.51bb68e3.chunk.js",
+    "static/js/2.aaa60096.chunk.js",
     "static/css/main.8ad48a67.chunk.css",
-    "static/js/main.f04bdaa4.chunk.js"
+    "static/js/main.21cda30c.chunk.js"
   ]
 }
